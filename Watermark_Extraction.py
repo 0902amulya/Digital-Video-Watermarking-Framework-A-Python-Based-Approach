@@ -1,3 +1,10 @@
+"""
+import required modules using :
+pip install PyWavelets
+pip install numpy
+pip install opencv-python
+pip install moviepy
+"""
 import cv2
 import pywt
 import numpy as np
